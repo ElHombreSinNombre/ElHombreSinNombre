@@ -15,8 +15,8 @@ I'm a passionate frontend developer with a strong background in building dynamic
 
 ## My last projects
 
+- [react-simple-page](https://github.com/ElHombreSinNombre/react-simple-page)
 - [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
 - [music-player](https://github.com/ElHombreSinNombre/music-player)
-- [openUI](https://github.com/ElHombreSinNombre/openUI)
 
 Happy coding! 🚀
