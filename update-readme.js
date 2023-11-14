@@ -7,7 +7,6 @@ const readmePath = 'README.md';
 
 async function updateReadme() {
     const repositories = await fetchRepositories(username);
-    const recentRepositories = repositories.slice(0, 3);
     const readmeContent = `
 ### Hi there 👋
 
@@ -25,7 +24,7 @@ I'm a passionate frontend developer with a strong background in building dynamic
 
 ## My last projects
 
-${recentRepositories.map(repo => `- [${repo.name}](${repo.html_url})`).join('\n')}
+${repositories.map(repo => `- [${repo.name}](${repo.html_url})`).join('\n')}
 
 Happy coding! 🚀`;
 
@@ -33,7 +32,7 @@ Happy coding! 🚀`;
 }
 
 const fetchRepositories = async (username) => {
-    const response = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=100`);
+    const response = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&page=1&per_page=3`);
     return response.json();
 }
 
