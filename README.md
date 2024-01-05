@@ -16,7 +16,7 @@ I'm a passionate frontend developer with a strong background in building dynamic
 ## My last projects
 
 - [laravel-flutter](https://github.com/ElHombreSinNombre/laravel-flutter)
-- [react-simple-page](https://github.com/ElHombreSinNombre/react-simple-page)
 - [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
+- [music-player](https://github.com/ElHombreSinNombre/music-player)
 
 Happy coding! 🚀
