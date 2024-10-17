@@ -15,8 +15,8 @@ I'm a passionate frontend developer with a strong background in building dynamic
 
 ## My last projects
 
-- [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
 - [laravel-flutter](https://github.com/ElHombreSinNombre/laravel-flutter)
-- [openia-generator](https://github.com/ElHombreSinNombre/openia-generator)
+- [laravel-vue](https://github.com/ElHombreSinNombre/laravel-vue)
+- [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
 
 Happy coding! 🚀
