@@ -15,8 +15,8 @@ I'm a passionate frontend developer with a strong background in building dynamic
 
 ## My last projects
 
-- [laravel-flutter](https://github.com/ElHombreSinNombre/laravel-flutter)
-- [laravel-vue](https://github.com/ElHombreSinNombre/laravel-vue)
+- [vue-crud](https://github.com/ElHombreSinNombre/vue-crud)
 - [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
+- [laravel-flutter](https://github.com/ElHombreSinNombre/laravel-flutter)
 
 Happy coding! 🚀
