@@ -15,8 +15,8 @@ I'm a passionate frontend developer with a strong background in building dynamic
 
 ## My last projects
 
+- [menu-generator](https://github.com/ElHombreSinNombre/menu-generator)
 - [ElHombreSinNombre](https://github.com/ElHombreSinNombre/ElHombreSinNombre)
 - [travel-generator](https://github.com/ElHombreSinNombre/travel-generator)
-- [music-player](https://github.com/ElHombreSinNombre/music-player)
 
 Happy coding! 🚀
