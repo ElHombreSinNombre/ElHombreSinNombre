@@ -3,9 +3,5 @@
   "version": "1.0.0",
   "main": "update-readme.js",
   "author": "ElHombreSinNombre",
-  "license": "ISC",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "node-fetch": "^2.7.0"
-  }
+  "license": "ISC"
 }
